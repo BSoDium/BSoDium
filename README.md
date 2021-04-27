@@ -5,6 +5,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=l3alr0g&show_icons=true&theme=gotham&count_private=true&custom_title=l3alr0g's+Github+Stats" />
 </a>
-<a href="">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3alr0g&layout=compact&theme=gotham" />
 </a>
