@@ -11,4 +11,5 @@
 <a href="https://github.com/l3alr0g?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3alr0g&layout=compact&theme=gotham&bg_color=00000000&hide_border=true&langs_count=10" />
 </a>
-*Disclaimer : these stats do not take into account contributions to repositories that I do not own, therefore they are not fully representative of my skills*
+<br>
+Disclaimer : these stats do not take into account contributions to repositories that I do not own, therefore they are not fully representative of my skills
