@@ -8,7 +8,7 @@
 <a href="https://github.com/BSoDium?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSoDium&layout=compact&theme=gotham&bg_color=00000000&hide_border=true&langs_count=10" />
 </a>
-<a href="http://www.sandbox.BSoDium.fr">
+<a href="https:/sandbox.BSoDium.fr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BSoDium&show_icons=true&theme=gotham&count_private=true&custom_title=BSoDium's+Github+Stats&include_all_commits=true&bg_color=00000000&hide_border=true" />
 </a>
 
