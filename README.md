@@ -18,4 +18,5 @@
     <img height="200" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github-readme-stats.vercel.app/api?username=BSoDium&show_icons=true&count_private=true&custom_title=BSoDium's+Github+Stats&include_all_commits=true&bg_color=00000000&hide_border=true">
   </picture>
 </p>
+
 _Disclaimer : these stats do not take into account contributions to repositories that I do not own, therefore they are not fully representative of my skills_
