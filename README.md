@@ -8,14 +8,12 @@
 <p align="middle">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BSoDium&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&langs_count=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BSoDium&layout=compact&bg_color=00000000&hide_border=true&langs_count=10">
-    <img height="200" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSoDium&layout=compact&bg_color=00000000&hide_border=true&langs_count=10">
+    <img height="200" alt="Themable stat card" title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSoDium&layout=compact&bg_color=00000000&hide_border=true&langs_count=10">
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BSoDium&show_icons=true&theme=github_dark&count_private=true&custom_title=BSoDium's+Github+Stats&include_all_commits=true&bg_color=00000000&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BSoDium&show_icons=true&count_private=true&custom_title=BSoDium's+Github+Stats&include_all_commits=true&bg_color=00000000&hide_border=true">
-    <img height="200" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github-readme-stats.vercel.app/api?username=BSoDium&show_icons=true&count_private=true&custom_title=BSoDium's+Github+Stats&include_all_commits=true&bg_color=00000000&hide_border=true">
+    <img height="200" alt="Themable stat card" title="Profile stats" src="https://github-readme-stats.vercel.app/api?username=BSoDium&show_icons=true&count_private=true&custom_title=BSoDium's+Github+Stats&include_all_commits=true&bg_color=00000000&hide_border=true">
   </picture>
 </p>
 
