@@ -10,13 +10,13 @@
       <img height="200" alt="Themable stat card" title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSoDium&layout=compact&bg_color=00000000&hide_border=true&langs_count=10">
   </a>
   <a href="https://github.com/bsodium/#gh-dark-mode-only">
-      <img height="200" alt="Themable stat card" title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSoDium&layout=compact&bg_color=00000000&hide_border=true&langs_count=10&theme=dark">
+      <img height="200" alt="Themable stat card" title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSoDium&layout=compact&bg_color=00000000&hide_border=true&langs_count=10&theme=github_dark">
   </a>
   <a href="https://github.com/bsodium/#gh-light-mode-only">
     <img height="200" alt="Themable stat card" title="Profile stats" src="https://github-readme-stats.vercel.app/api?username=BSoDium&show_icons=true&count_private=true&custom_title=BSoDium's+Github+Stats&include_all_commits=true&bg_color=00000000&hide_border=true">
   </a>
   <a href="https://github.com/bsodium/#gh-dark-mode-only">
-    <img height="200" alt="Themable stat card" title="Profile stats" src="https://github-readme-stats.vercel.app/api?username=BSoDium&show_icons=true&count_private=true&custom_title=BSoDium's+Github+Stats&include_all_commits=true&bg_color=00000000&hide_border=true&theme=dark">
+    <img height="200" alt="Themable stat card" title="Profile stats" src="https://github-readme-stats.vercel.app/api?username=BSoDium&show_icons=true&count_private=true&custom_title=BSoDium's+Github+Stats&include_all_commits=true&bg_color=00000000&hide_border=true&theme=github_dark">
   </a>
 </p>
 
