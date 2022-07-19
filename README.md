@@ -1,6 +1,6 @@
 ### Hey there 👋
 <p>
-  📖  I'm a computer science student at <a href="https://www.enseeiht.fr/">ENSEEIHT</a>, mostly interested in 3D rendering, computer graphics and physics simulations. Most of my projects are published as public, feel free to check out my pins !
+  📖  I'm a Software developer and computer science student at <a href="https://www.enseeiht.fr/">ENSEEIHT</a>, interested in 3D rendering, computer graphics and physics simulations. Feel free to explore my projects, contributions are welcome !
 </p>
 <p>
 🚀  Currently working on the <a href="https://github.com/photonsquid/houseportal">HousePortal</a> project, drop a star if you want to keep track of it / contribute with some ideas.
