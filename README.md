@@ -29,10 +29,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=blue&logoColor=white"/>
   </a>
   <a href="https://www.deviantart.com/l3alr0g/#gh-dark-mode-only">
-    <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&color=1a2042&logoColor=05CC47"/>
+    <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&color=1a2042&logoColor=white"/>
   </a>
   <a href="https://www.deviantart.com/l3alr0g/#gh-light-mode-only">
-    <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&color=1a2042&logoColor=05CC47"/>
+    <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&color=1a2042&logoColor=white"/>
   </a>
   <a href="https://www.researchgate.net/profile/Philippe-Negrel-Jerzy/#gh-dark-mode-only">
     <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&color=004943&logoColor=white"/>
