@@ -4,7 +4,7 @@
   📖  I'm a Software developer and computer science student at <a href="https://www.enseeiht.fr/">ENSEEIHT</a>, interested in 3D rendering, computer graphics and physics simulations. Feel free to explore my projects, contributions are welcome !
 </p>
 <p>
-🚀  Currently working on the <a href="https://github.com/BSoDium/hypergon">Hypergon</a> project, drop a star if you want to keep track of it / contribute with some ideas.
+🚀  Currently working on the <a href="https://github.com/BSoDium/lidar">Lidar</a> project, drop a star if you want to keep track of it / contribute with some ideas.
 </p>
 <p align="middle">
   <a href="https://github.com/bsodium/#gh-light-mode-only">
