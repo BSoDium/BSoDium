@@ -1,10 +1,10 @@
 ### Hey there 👋
 
 <p>
-  📖  I'm a Software developer and former computer science student at <a href="https://www.enseeiht.fr/">ENSEEIHT</a>, interested in 3D rendering, computer graphics and physics simulations. Feel free to explore my projects, contributions are welcome !
+  🙋 I'm a Software developer and former computer science student at <a href="https://www.enseeiht.fr/">ENSEEIHT</a>, interested in Design, computer graphics and UI/UX research. I believe open-source development to be a key building block of a fairer world wide web.
 </p>
 <p>
-🚀  Currently working on the <a href="https://github.com/BSoDium/cron">Cron</a> project, drop a star if you want to keep track of it / contribute with some ideas.
+  💡 Want to know more about me? Check out my <a href="https://www.bsodium.fr">eportfolio</a> and may your wish be granted ✨ 
 </p>
 
 <p align="middle">
