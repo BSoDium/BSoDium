@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 <p>
-  🙋 I'm a Software developer and former computer science student at <a href="https://www.enseeiht.fr/">ENSEEIHT</a>, interested in Design, computer graphics and UI/UX research. I believe open-source development to be a key building block of a fairer world wide web.
+  🙋 I'm a Software engineer and former computer science student at <a href="https://www.enseeiht.fr/">ENSEEIHT</a>, interested in Design, computer graphics and UI/UX research. I believe open-source development to be a key building block of a fairer world wide web.
 </p>
 <p>
   💡 Want to know more about me? Check out my <a href="https://www.bsodium.fr">eportfolio</a> and may your wish be granted ✨ 
