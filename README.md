@@ -1,14 +1,13 @@
-### Hey there 👋
+### Hi, I'm Elliot 👋
 
 <p>
-  🧑‍💻 I'm a Software engineer and former computer science student at <a href="https://www.enseeiht.fr/">ENSEEIHT</a>, interested in Design, computer graphics and UI/UX research. 
-  I believe open-source development to be a key building block of a fairer world wide web.
+  I'm a frontend engineer specializing in React, TypeScript, and data visualization, with a focus on geospatial interfaces, design systems, and LLM-powered UIs. I care deeply about crafting experiences that are as technically sound as they are visually refined.
 </p>
 <p>
-  👉 Since you're already here, might as well check out <a href="https://www.bsodium.fr">my eportfolio</a>?
+  Currently building tools for carbon monitoring and nature-based investment at <a href="https://kanop.io">Kanop</a>. Previously at Tauniqo.ai and Escape.
 </p>
 <p>
-  👇 Oh, and before you go, here are my socials:
+  👉 Take a look at <a href="https://www.bsodium.fr">my portfolio</a> if you'd like to know more.
 </p>
 
 <p align="middle">
