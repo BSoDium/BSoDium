@@ -4,9 +4,6 @@
   I'm a design engineer based in Warsaw, working on data visualization, geospatial and cartography interfaces, design systems, LLM-powered UIs and computer graphics. I care deeply about crafting experiences that are as technically sound as they are visually refined.
 </p>
 <p>
-  Joining <a href="https://nordvpn.com">NordVPN</a> on November 29 as a design engineer in the Aurora team, which builds the design system behind most Nord Security products. Previously building tools for carbon monitoring and nature-based investment at <a href="https://kanop.io">Kanop</a>, and before that at Tauniqo.ai and Escape.
-</p>
-<p>
   🌍 My <a href="https://www.bsodium.fr">portfolio</a> is an interactive globe of places I've been, with the software, articles, artworks, poetry and photography attached to them (<a href="https://github.com/BSoDium/Catalyst">source</a>).
 </p>
 
