@@ -1,14 +1,21 @@
 ### Hi, I'm Elliot 👋
 
 <p>
-  I'm a frontend engineer specializing in React, TypeScript, and data visualization, with a focus on geospatial interfaces, design systems, and LLM-powered UIs. I care deeply about crafting experiences that are as technically sound as they are visually refined.
+  I'm a design engineer based in Warsaw, working on data visualization, geospatial and cartography interfaces, design systems, LLM-powered UIs and computer graphics. I care deeply about crafting experiences that are as technically sound as they are visually refined.
 </p>
 <p>
   Currently building tools for carbon monitoring and nature-based investment at <a href="https://kanop.io">Kanop</a>. Previously at Tauniqo.ai and Escape.
 </p>
 <p>
-  👉 Take a look at <a href="https://www.bsodium.fr">my portfolio</a> if you'd like to know more.
+  🌍 My <a href="https://www.bsodium.fr">portfolio</a> is an interactive globe of places I've been, with the software, articles, artworks, poetry and photography attached to them (<a href="https://github.com/BSoDium/Catalyst">source</a>).
 </p>
+
+#### Things I've been building lately
+
+- [**Catalyst**](https://github.com/BSoDium/Catalyst): the globe-based personal archive behind my portfolio
+- [**Neon-activity-graph**](https://github.com/BSoDium/Neon-activity-graph): a 3D glass-and-neon GitHub contributions graph in three.js, with a React wrapper
+- [**Avatar**](https://github.com/BSoDium/Avatar): a modern SVG avatar generator for the web
+- [**Cron**](https://github.com/BSoDium/Cron): an Android alarm that wakes you before your first calendar event
 
 <p align="middle">
   <a href="https://www.linkedin.com/in/bsodium/#gh-dark-mode-only">
